@@ -4,3 +4,5 @@ CMSC 100 C-4L
 In CMSC 100, I expect that I will be able to design and implement a web application. 
 I am expecting to create an interactive web and learn the necessary knowledge and 
 skills to do that. I also expect to collaborate with my classmates.
+
+I agree with Maria's expectations, I hope that both of us will pass this course.
